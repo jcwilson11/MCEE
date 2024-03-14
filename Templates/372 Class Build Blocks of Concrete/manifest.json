@@ -1,0 +1,21 @@
+{
+   "format_version" : 1,
+   "header" : {
+      "description" : "Class House Copy",
+      "name" : "Class House Copy Temp",
+      "uuid" : "f880ab2d-96bf-496a-99b1-3a59fe68a68c",
+      "version" : [ 1, 0, 0 ]
+   },
+   "metadata" : {
+      "authors" : [ "JWil" ],
+      "url" : "https://github.com/jcwilson11"
+   },
+   "modules" : [
+      {
+         "description" : "Not Needed",
+         "type" : "world_template",
+         "uuid" : "5833ce63-4b61-48ff-a51d-77c3801a5bd5",
+         "version" : [ 1, 0, 0 ]
+      }
+   ]
+}
