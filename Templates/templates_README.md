@@ -1,0 +1,2 @@
+# How to import and export templates
+```https://www.youtube.com/watch?v=sSjXDPzFrQ0``` - This video shows how to import and export templates in the game. It is recorded on a mac, but the steps are the same for windows. I am not sure if this can be done on mobile. It may require additional apps, and will not be covered in this video.
