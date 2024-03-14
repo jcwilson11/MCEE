@@ -3,7 +3,7 @@
 
 Since I have already prepared the **.mctemplate file**, you should be able to import it directly into your game without having to import the individual files. 
 
-If that does not work, **generate two unique UUIDs**, open the **maniffest.json** file, and **replace the UUIDs with the new ones.** Then, zip the **ALL** files and **change the extension to .mctemplate.** You can then **import the .mctemplate file into your game.**
+If that does not work, **generate two unique UUIDs** (Use the following website: https://www.uuidgenerator.net/), open the **maniffest.json** file, and **replace the UUIDs with the new ones.** Then, zip the **ALL** files and **change the extension to .mctemplate.** You can then **import the .mctemplate file into your game.**
 
 # Credit
 372 Class Build Blocks of Concrete by JWil
