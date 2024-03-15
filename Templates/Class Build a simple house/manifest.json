@@ -1,9 +1,9 @@
 {
    "format_version" : 1,
    "header" : {
-      "description" : "Class House Copy",
-      "name" : "Class House Copy Temp",
-      "uuid" : "f880ab2d-96bf-496a-99b1-3a59fe68a68c",
+      "description" : "Class Build a simple house",
+      "name" : "Class Build a simple house",
+      "uuid" : "f25be6e9-8aff-48e2-a6da-c2488655ca74",
       "version" : [ 1, 0, 0 ]
    },
    "metadata" : {
@@ -14,7 +14,7 @@
       {
          "description" : "Not Needed",
          "type" : "world_template",
-         "uuid" : "5833ce63-4b61-48ff-a51d-77c3801a5bd5",
+         "uuid" : "b668b2e8-4e56-47fe-8867-14bd7b6ec1a2",
          "version" : [ 1, 0, 0 ]
       }
    ]
