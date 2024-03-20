@@ -32,6 +32,6 @@ If you need to create a new .json file, open your text editor (TextEdit on Mac, 
 Replace the text in caps with your own information, and take two new UUIDs and replace the ones in the file. Save the text file as maniffest.json, so it is ready to be copied into the unzipped folder. 
 
 # Credit
-- 372 Class Build Blocks of Concrete by JWil
+-  Class Build a simple house by JWil
 - Remix of Class Build Blocks of Concrete by Nathan Richards. Can be found in the Minecraft Education Edition Library.
 ```
