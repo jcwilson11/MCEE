@@ -13,6 +13,7 @@ Snowy: y offset = -6
 Desert: y offset = -6
 Lava: y offset = -4
 Swamp: y offset = -4
+warmOcean: y offset = -4
 
 
 Ship: y offset = 0
