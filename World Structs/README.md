@@ -19,3 +19,5 @@ warmOcean: y offset = -4
 Ship: y offset = 0
 Igloo: y offset = -35 (fix bottom behing the igloo)
 Hut: y offset = -2
+Office: y offset = -1
+ISS: y offset = 0
